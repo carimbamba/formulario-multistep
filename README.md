@@ -82,5 +82,5 @@ Este projeto é um excelente reflexo do meu domínio sobre o ecossistema Web Cor
 ---
 
 <div align="center">
-  Desenvolvido com ☕ e código limpo por <a href="https://github.com/SEU_USUARIO">Vinícius</a>.
+  Desenvolvido por <a href="https://github.com/carimbamba">Vinícius</a>.
 </div>
